@@ -1,0 +1,16 @@
+{
+  "default": "Något gick fel!",
+  "err_1000": "Ogiltig uppgiftstyp",
+  "err_1001": "Det gick inte att bekräfta uppgiften",
+  "err_1002": "Det gick inte att erkänna uppgiften",
+  "err_1003": "Ogiltig svarstyp",
+  "err_1004": "Interaktionsbegäran misslyckades",
+  "err_1005": "Det gick inte att generera uppgift",
+  "err_1006": "Inga uppgifter av typen {{task_type}} är för närvarande tillgängliga.",
+  "err_1007": "Frågan om tillgänglighet misslyckades",
+  "err_1008": "Meddelandestorleken är för lång",
+  "err_1009": "Dina senaste meddelanden har dubbletter",
+  "err_1010": "Meddelandetexten är tom",
+  "err_1011": "Du kan inte svara två gånger på samma meddelande",
+  "err_1012": "Du har för många väntande uppgifter. Försök igen om några minuter."
+}
