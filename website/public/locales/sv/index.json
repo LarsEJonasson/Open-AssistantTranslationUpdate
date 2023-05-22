@@ -1,6 +1,7 @@
 {
   "blurb": "Vi tror att vi kan skapa något revolutionerande.",
   "blurb1": "Precis som Stable Diffusion möjliggjorde nya sätt att skapa konst och bilder, strävar vi efter att förbättra världen genom att tillhandahålla konversations-AI i världsklass.",
+  "chat_with_our_assistant": "Chatta med vår assistent",
   "description": "Konversations-AI för alla. Ett projekt med öppen källkod för att bygga en chattaktiverad GPT stor språkmodell, underhållen av LAION och bidragsgivare runt om i världen.",
   "faq_items": {
     "q0": "Hur långt har projektet kommit?",
@@ -17,7 +18,10 @@
     "a5": "Det kommer att finnas versioner som kan köras på konsumenthårdvara."
   },
   "faq_title": "Vanliga frågor",
+  "help_us_improve": "Hjälp oss att förbättra",
+ "hugging_face_link": "Besök vår HuggingFace-sida",
   "join_us_description": "Alla projekt med öppen källkod börjar med människor som du!  Öppen källkod är tron på att om vi samarbetar kan vi tillsammans ge bort vår kunskap och teknik till världen till nytta för mänskligheten. Är du med? Du hittar oss här:",
   "join_us_title": "Gå med oss",
-  "subtitle": "Konversations-AI för alla."
+  "subtitle": "Konversations-AI för alla.",
+  "try_our_assistant": "Testa vår assistent"
 }
