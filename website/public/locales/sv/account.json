@@ -1,0 +1,9 @@
+{
+"delete_account": "Ta bort mitt konto",
+"delete_account_data": "Alla data på Open Assistant som samlats in genom att lösa uppgifter, kategorisera meddelanden och spara chattkonversationer kommer att fortsätta att vara sparade. Alla hänvisningar till den ursprungliga användaren anonymiseras dock.",
+"delete_account_intro": "Att ta bort kontot innebär följande:",
+"delete_account_leaderboard": "Borttagna konton visas inte längre på topplistan.",
+"delete_account_permanent": "Denna åtgärd är permanent och kan inte ångras.",
+"go_to_dashboard": "Gå till instrumentpanelen",
+"yes_delete": "Ja, jag vill ta bort mitt konto permanent."
+} 
