@@ -9,6 +9,7 @@
   "labels_simple": "Beteckningar (enkla)",
   "last_updated_at": "Senast uppdaterad: {{val, datetime}}",
   "leaderboard": "Topplista",
+  "level_progress_message": "Med totalt {{score}} poäng har du nått nivå {{level,number,integer}}!",
   "month": "Månad",
   "monthly": "Månatlig",
   "next": "Nästa",
@@ -18,6 +19,7 @@
   "previous": "Föregående",
   "prompt": "Förfågningar",
   "rank": "Rank",
+  "reached_max_level": "Du har nått maxnivå, tack för ditt hårda arbete!",
   "rankings": "Ranking",
   "replies_assistant": "Svarar som assistent",
   "replies_prompter": "Svarar som prompter",
@@ -32,5 +34,6 @@
   "week": "Vecka",
   "weekly": "Veckovis",
   "your_account": "Ditt konto",
-  "your_stats": "Din statistik"
+  "your_stats": "Din statistik",
+  "xp_progress_message": "Du behöver {{need, number, integer}} fler poäng för att nå nästa nivå!"
 }
